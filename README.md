@@ -22,13 +22,13 @@ Le résultat peut ensuite être hébergé en ligne avec différents services don
 
 Voici des exemples utilisés à de nombreuses occasions :
 
-- <a href="https://about.readthedocs.com/" target="_blank">Read the Docs</a> avec un thème fixe, peu de personnalisation, mais une standardisation qui offre de la stabilité.
+- **Read the Docs** avec un thème fixe, peu de personnalisation, mais une standardisation qui offre de la stabilité.
     - <a href="https://docs.readthedocs.com/platform/stable/index.html" target="_blank">Exemple de leur site</a>.
-- <a href="https://www.gitbook.com/" target="_blank">GitBook</a> avec ses thèmes standards et plus de personnalisation.
+- **GitBook** avec ses thèmes standards et plus de personnalisation.
     - <a href="https://gitbook.com/docs/" target="_blank">Exemple de leur site</a>.
-- <a href="https://www.mkdocs.org/" target="_blank">MkDocs</a> avec ses thèmes standards dont celui de **leur site** et ses thèmes indépendants dont <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material</a>. Deux exemples avec le thème Material :
+- **MkDocs** avec ses thèmes standards dont celui de **leur site** et ses thèmes indépendants dont <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material</a>. Deux exemples avec le thème Material :
     - https://ugolab.gitlab.io/formation/
     - https://ugolab.gitlab.io/projetNF/
-- <a href="https://gohugo.io/" target="_blank">Hugo</a> avec une vaste collection de <a href="https://themes.gohugo.io/" target="_blank">thèmes</a>  
+- **Hugo** avec une vaste collection de <a href="https://themes.gohugo.io/" target="_blank">thèmes</a>  
     - ugofolio
-- <a href="https://quarto.org/docs/gallery/" target="_blank">Quarto</a> pour créer des rapports, des articles, des dashboards, des sites web et des blogs.
+- **Quarto** de Posit (RStudio) pour créer des rapports, des articles, des dashboards, des sites web et des blogs.
