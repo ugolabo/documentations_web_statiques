@@ -16,7 +16,7 @@ Au-delà de l'utilisation des fonctionnalités de GitHub Pages, par exemple, il 
 
 Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown. Le générateur sert à émuler et à construire le site en local.
 
-Certains générateurs offrent des thèmes alors que d'autres nécessitent l'ajout d'un thème avec un template. Selon le générateur, la diversité des thèmes peut ou non couvrir un vaste évantail de besoins qui dépassent les documentations en ligne (blogue, CV en ligne, portfolio, etc.). Il reste que tout se personnalise en injectant plus de CSS et de JavaScript.
+Certains générateurs offrent des thèmes alors que d'autres nécessitent l'ajout d'un thème avec un template. Selon le générateur, la diversité des thèmes peut ou non couvrir un vaste évantail de besoins qui dépassent les documentations en ligne (blogue, CV en ligne, portfolio, etc.). Il reste que tout se personnalise modifiant le HTML et en injectant plus de CSS et de JavaScript.
 
 Le résultat peut ensuite être hébergé en ligne avec différents services dont GitHub, GitLab, Atlassian Bitbucket, des fournisseurs cloud, avec ou sans nom de domaine. Certains générateurs offrent l'option de publier en divers formats : HTML, PDF, ePub, Word.
 
