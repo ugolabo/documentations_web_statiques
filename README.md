@@ -24,7 +24,7 @@ Voici des exemples utilisés à de nombreuses occasions :
 
 - <a href="https://about.readthedocs.com/" target="_blank">Read the Docs</a> avec un thème fixe, peu de personnalisation, mais une standardisation qui offre de la stabilité.
 - <a href="https://www.gitbook.com/" target="_blank">GitBook</a> avec ses thèmes standards et plus de personnalisation.
-- <a href="https://about.readthedocs.com/" target="_blank">MkDocs</a> avec ses thèmes standards et indépendants dont <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material</a>. Deux exemples ouverts avec le thème Material :
+- <a href="https://about.readthedocs.com/" target="_blank">MkDocs</a> avec ses thèmes standards et indépendants dont <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material</a>. Deux exemples avec le thème Material :
     - https://ugolab.gitlab.io/formation/
     - https://ugolab.gitlab.io/projetNF/
 - <a href="https://gohugo.io/" target="_blank">Hugo</a> avec une vaste collection de <a href="https://themes.gohugo.io/" target="_blank">thèmes</a>  
