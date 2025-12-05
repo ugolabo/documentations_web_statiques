@@ -31,4 +31,4 @@ Voici des exemples utilisés à de nombreuses occasions :
     - https://ugolab.gitlab.io/projetNF/
 - **Hugo** avec une vaste collection de <a href="https://themes.gohugo.io/" target="_blank">thèmes</a>  
     - ugofolio
-- **Quarto** de Posit (RStudio) pour créer des rapports, des articles, des dashboards, des sites web et des blogs.
+- **Quarto** pour créer des rapports, des articles, des dashboards, des sites web et des blogs.
