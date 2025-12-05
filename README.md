@@ -5,8 +5,8 @@ Une recension d'outils pour construire des documentations web mises à jour en c
 - le développement et la gestion de projets,
 - les documentations techniques et les banques de connaissances,
 - le contenu de coaching, d'enseignement de logiciels, d'insertion d'employé,
-- la production de rapport et de tableaux de bord.
-- Et bien plus.
+- la production de rapport et de tableaux de bord
+- et bien plus.
 
 ## Générateurs de sites web statiques
 
