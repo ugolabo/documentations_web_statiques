@@ -14,7 +14,7 @@ Au-delà de l'utilisation des fonctionnalités de GitHub Pages, par exemple, il 
 
 <img src="img/documentations_web_statiques.png" alt="" width="500px" >
 
-Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown; langage typographique qui simplifie le langage HTML. Le générateur sert à émuler et à construire le site en local.
+Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown; un langage typographique qui simplifie le langage HTML. Le générateur sert à émuler et à construire le site en local.
 
 Certains générateurs offrent des thèmes alors que d'autres nécessitent l'ajout d'un thème avec un template. Selon le générateur, la diversité des thèmes peut ou non couvrir un vaste évantail de besoins qui dépassent les documentations en ligne (blogue, CV en ligne, portfolio, etc.). Il reste que tout se personnalise modifiant le HTML et en injectant plus de CSS et de JavaScript.
 
