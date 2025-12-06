@@ -33,17 +33,17 @@ Voici des exemples utilisés à de nombreuses occasions :
     - ugofolio
 - **Quarto** pour créer des rapports, des articles, des dashboards, des sites web et des blogs.
 
-## Générateurs de documentation
+## Générateurs de documentation de programmes
 
-Doxygen est spécialisé dans l'analyse du code source d'un programme pour en extraire les informations pertinentes (fonctions, classes, variables, structures, fichiers, etc.) et les transformer en une documentation structurée. C'est très niché. Doxygen utilise ce qu'on appelle la documentation intégrée (source-level documentation ou docstrings) pour plusieurs langages : C/C++, C#, Java, PHP, Python, JavaScript/TypeScript et bien d'autres.
+Doxygen est spécialisé dans l'analyse du code source d'un programme pour en extraire les informations pertinentes (fonctions, classes, variables, structures, fichiers, etc.) et les transformer en une documentation structurée. C'est plus automatisé qu'avec les générateurs de sites web qui permettent de documenter n'importe quoi. Doxygen utilise ce qu'on appelle la documentation intégrée (source-level documentation ou docstrings) pour plusieurs langages : C/C++, C#, Java, PHP, Python, JavaScript/TypeScript et bien d'autres.
 
-Dans ce domaine spécialisé, Doxygen remplace d'autres solutions :
+Doxygen remplace d'autres solutions spécialisées :
 
-- Sphinx et pydoc, spécialisés en projets en Python.
-- Javadoc, spécialisé en projets en Java.
-- jsdoc, spécialisé en projets en JavaScript.
+- Sphinx et pydoc, spécialisés en projets Python.
+- Javadoc, spécialisé en projets Java.
+- jsdoc, spécialisé en projets JavaScript.
 
-D'autres générateurs sont hyper-spécialisé dans des projets d'API :
+D'autres générateurs sont hyper-spécialisés dans des projets d'API :
 
 - OpenAPI.
 - Postman.
