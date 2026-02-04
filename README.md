@@ -26,7 +26,7 @@ Voici des exemples utilisés à de nombreuses occasions :
     - <a href="https://docs.readthedocs.com/platform/stable/index.html" target="_blank">Exemple de leur site</a>.
 - **GitBook** avec ses thèmes standards et plus de personnalisation.
     - <a href="https://gitbook.com/docs/" target="_blank">Exemple de leur site</a>.
-- **MkDocs** avec ses thèmes standards dont celui de **leur site** et ses thèmes indépendants dont <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material</a>. Deux exemples avec le thème Material :
+- **MkDocs** avec ses thèmes standards dont celui de **leur site** et ses thèmes indépendants dont <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material</a>. Un exemple avec le thème Material :
     - https://ugolab.gitlab.io/formation/
 - **Hugo** avec une vaste collection de <a href="https://themes.gohugo.io/" target="_blank">thèmes</a>. Avec Hugo, il faut utiliser un service comme Netlify pour construire et héberger le site avec les fichiers d'un dépôt de données (le dépôt privé est sur Bitbucket) :
     - https://ugofolio.netlify.app/portfolio/
